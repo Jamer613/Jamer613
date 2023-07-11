@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! sou Jamer, <br>Estudante de Data Science, <br>Buscando minha primeira colocação no setor,<br>Amante de tecnologia e entusiasta da cultura data-driven.
+Hey! sou Jamer, <br>Estudante de Data Science e Data Engineering, <br>Buscando minha primeira colocação no setor,<br>Amante de tecnologia e entusiasta da cultura data-driven.
 
 
 ## 🌐 Socials:
